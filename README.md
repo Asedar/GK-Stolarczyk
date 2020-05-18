@@ -1,5 +1,5 @@
-# Grafika komputerowa i komunikacja człowiek-komputer
+# Three.js Example Project
 
-Projekt zaliczeniowy prezentujący działanie biblioteki three.js.
+
 
 
